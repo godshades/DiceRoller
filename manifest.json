@@ -1,11 +1,12 @@
 {
-    "name": "PWA Dice Roller",
-    "short_name": "DiceRoller",
-    "description": "A simple Progressive Web App for rolling customizable dice.",
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#f4f4f4",
-    "theme_color": "#333333",
+  "name": "Lucky Dice Roller (Xúc Xắc)",
+  "short_name": "DiceRoll",
+  "description": "Versatile dice (xúc xắc) for luck (may mắn) in games like Bầu cua tôm cá, Crown and Anchor, Tài Xỉu, Chẵn Lẽ.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f4f4",
+  "theme_color": "#333",
+  "orientation": "portrait-primary",
     "icons": [
       {
         "src": "icon.png",
